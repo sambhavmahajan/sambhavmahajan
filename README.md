@@ -1,16 +1,17 @@
-## Hi there 👋
+## About Me
 
-<!--
-**sambhavmahajan/sambhavmahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a Software Engineer with a passion for developing innovative solutions and a diverse skill set across multiple programming languages and frameworks.
 
-Here are some ideas to get you started:
+### Skills & Expertise:
+- **Languages:** C++, Java, C#, Python
+- **Frameworks:** Spring, .NET
+- **Technical Skills:**
+  - Dynamic Programming
+  - Docker
+  - Windows App Development (using .NET)
+  - Android Development
+  - Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Current Focus:** Exploring new projects in Java utilizing Spring Boot.
+
+I enjoy working on both backend and frontend development and am always eager to dive into new challenges. Feel free to check out my repositories and reach out if you want to collaborate or just chat about tech!

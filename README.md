@@ -1,5 +1,3 @@
-## About Me
-
 Hi there! I'm a Software Engineer with a passion for developing innovative solutions and a diverse skill set across multiple programming languages and frameworks.
 
 ### Skills & Expertise:

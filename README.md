@@ -12,7 +12,7 @@ I am currently pursuing a Bachelor of Engineering in Computer Science and Engine
 
 ## 🛠️ Skills
 
-- **Programming Languages:** C++, Java, Go (Golang), Python, C#
+- **Programming Languages:** C++, Java, Ruby, Go (Golang), Python, C#
 - **Version Control:** Git, GitHub
 - **Development Tools:** Visual Studio, Eclipse, Android Studio, Spring Tool Suite, Docker, StarUML
 - **Frameworks:** Spring Boot

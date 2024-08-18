@@ -1,17 +1,37 @@
-Hi there! I'm a Software Engineer with a passion for developing innovative solutions and a diverse skill set across multiple programming languages and frameworks.
+Hey guys! I'm Sambhav Mahajan, a motivated computer science student with a passion for software engineering. My primary focus is on developing and maintaining robust software solutions, with a special interest in microservices architecture. 
 
-### Skills & Expertise:
+## 📚 About Me
 
-- **Languages:** C++, Java, C#, Python
-- **Frameworks:** Spring, .NET
-- **Technical Skills:** Dynamic Programming, Docker, Windows App Development (using .NET), Android Development, Game Development
+I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Chandigarh University, Mohali. My academic journey has equipped me with hands-on experience in various programming languages, including Java, C++, and C#. I'm enthusiastic about leveraging my skills in a dynamic tech environment and am actively seeking internships and entry-level opportunities.
 
-- **Software Tools:**
-  1. **Operating Systems:** Linux (Linux Mint)
-  2. **Development Tools:** Git, GitHub, Visual Studio, Eclipse IDE, Android Studio
-  3. **Testing Tools:** JUnit, Postman
-  4. **Version Control:** Git
+## 🌟 Objectives
 
-- **Current Focus:** Exploring new projects in Java utilizing Spring Boot.
+- Develop, test, and maintain high-quality software solutions
+- Apply and expand my skills in a real-world tech environment
+- Contribute to innovative projects and collaborate with talented teams
 
-I enjoy working on both backend and frontend development and am always eager to dive into new challenges. Feel free to check out my repositories and reach out if you want to collaborate or just chat about tech!
+## 🛠️ Skills
+
+- **Programming Languages:** C++, Java, Go (Golang), Python, C#
+- **Version Control:** Git, GitHub
+- **Development Tools:** Visual Studio, Eclipse, Android Studio, Spring Tool Suite, Docker, StarUML
+- **Frameworks:** Spring Boot
+- **Data Analysis:** SQL
+- **Testing:** JUnit, Postman
+- **Software Design:** UML (Unified Modeling Language)
+- **Operating Systems:** Windows, Linux Mint
+
+## 🎓 Education
+
+**BE in Computer Science and Engineering**  
+Chandigarh University, Mohali, Punjab  
+August 2023 – August 2027  
+
+## 📑 Research and Publications
+
+- **“Writing Maintainable Software: A Brief Analysis”**  
+  *Preprint, Under Review at IEEE Software*  
+  DOI: [10.36227/techrxiv.172297392.28347576/v2](https://doi.org/10.36227/techrxiv.172297392.28347576/v2)  
+  A discussion on best practices and a generalized file system for maintainable software.
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration opportunities! 🚀

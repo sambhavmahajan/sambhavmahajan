@@ -30,7 +30,7 @@ August 2023 – August 2027
 ## 📑 Research and Publications
 
 - **“Writing Maintainable Software: A Brief Analysis”**  
-  *Preprint, Under Review at IEEE Software*  
+  *Preprint, Techrxiv*  
   DOI: [10.36227/techrxiv.172297392.28347576/v2](https://doi.org/10.36227/techrxiv.172297392.28347576/v2)  
   A discussion on best practices and a generalized file system for maintainable software.
 

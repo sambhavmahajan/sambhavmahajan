@@ -15,7 +15,7 @@ I am currently pursuing a Bachelor of Engineering in Computer Science and Engine
 - **Programming Languages:** C++, Java, Ruby, Go (Golang), Python, C#
 - **Version Control:** Git, GitHub
 - **Development Tools:** Visual Studio, Eclipse, Android Studio, Spring Tool Suite, Docker, StarUML
-- **Frameworks:** Spring Boot
+- **Frameworks:** Spring Boot, Gin
 - **Data Analysis:** SQL
 - **Testing:** JUnit, Postman
 - **Software Design:** UML (Unified Modeling Language)

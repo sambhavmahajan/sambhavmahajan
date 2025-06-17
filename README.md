@@ -10,7 +10,9 @@ I’ve worked on various projects, including:
 - **Mini-Redis Clone**: A Redis clone implemented in Golang, featuring atomic and periodic data persistence.
 - **Online Clipboard**: A web app for sharing text online, with an optional private mode.
 
-Additionally, I worked as a **Freelancer** at **Outlier AI** from October 2024 to December 2024.
+***Experience:***
+- Freelancing on [Fiverr](https://www.fiverr.com/sambhavoliver/) (since June 2025) and working directly with clients. Creating in APIs, and scalable backend systems.
+- Additionally, I worked as a **Freelancer** at **Outlier AI** from October 2024 to December 2024.
 
 **Achievements:**
 - Secured **second place** out of over 4,000 participants in **Code Forge 2024**, a competitive programming contest hosted by Chandigarh University and sponsored by Coding Ninjas.
